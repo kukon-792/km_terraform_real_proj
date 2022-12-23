@@ -1,6 +1,6 @@
 FROM ubuntu:latest
 
-MAINTAINER ybmsr --login kukon11474@gmail.com --region us-east-2
+MAINTAINER ybmsr <kukon11474@gmail.com>
 
 WORKDIR /usr/apps/hello-docker/
 
