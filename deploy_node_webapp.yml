@@ -28,7 +28,7 @@
               spec:
                 containers:
                 - name: springapp
-                  image: 149594762438.dkr.ecr.us-east-2.amazonaws.com/nodeapp
+                  image: 149594765678.dkr.ecr.us-east-2.amazonaws.com/nodeapp
                   ports:
                   - containerPort: 8080
                 imagePullSecrets:
