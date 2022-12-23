@@ -1,6 +1,6 @@
 # RUN me where kubectl is available,& make sure to replace account,region etc
 #
-ACCOUNT=149594762438
+ACCOUNT=149594765643
 REGION=us-east-2
 SECRET_NAME=${REGION}-ecr-registry
 EMAIL=kukon11674@gmail.com
